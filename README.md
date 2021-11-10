@@ -32,6 +32,9 @@ NFT PARA CROWDFUNDING CORPORATIVO, INDUSTRIAL E INOVAÇÕES
 	Uma equipe de desenvolvedores tem um projeto para a criação de um painel de energia solar com capacidade para suportar grandes temperaturas, acima de 45º C. Isto seria excelente para áreas muito quentes do planeta, como desertos da California ou desertos da região árabe. Outra equipe desenvolve pequenas torres domésticas para produção de energia eólica em regiões que ventam muito, Wyoming ou Texas.  Uma terceira equipe desenvolve pranchas de windsurf capazes de produzir energia elétrica e minerar criptomoedas, através de dispositivos à prova d'água. Uma quarta equipe desenvolve in-satélites, ou seja, satélites por balões de grande altitude, que não precisam ser enviados ao espaço e portanto são muito mais baratos que satélites convencionais, ainda que seu uso seja mais restrito.
 	Todos estes desenvolvedores podem criar seus projetos através de crowdfunding de NFTs. E o que estes desenvolvedores iriam mintar? Tudo. Sketches, fotografias, depoimentos, videos ou badges semelhantes aos POAPs ou Kudos. Os desenvolvedores poderiam receber colaborações da comunidade. Um designer local poderia criar badges para homenagear o projeto e ser mintado como NFT. O engajamento da comunidade, de investidores e compradores seria infinitamente maior do que um simples crowdfunding. Se um simples crowdfunding alcança 2000% de lucros, um NFT de crowdfundings para inovações alcançaria 20.000%? 200.000%? Eu não sei. Lembrando que os projetos também poderiam receber tips. 
 	E este crowdfunding não precisaria ser utilizado apenas para inovações. Projetos de caridade, projetos agrícolas, projetos educacionais, pesquisas em ciências humanas (why not?). Use your to-the-Moon-like imagination.
+	
+	![euphoria nft credits](https://user-images.githubusercontent.com/69718666/141212009-1949a2f1-253c-4865-acd1-c9dc4538b634.jpg)
+
 
 
 
